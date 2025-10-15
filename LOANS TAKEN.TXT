@@ -1,0 +1,7 @@
+CONTRACT 0x97E4d79f149c34dDd1D217e579A0969a9BeF4c3E
+
+10 USDC              https://polygonscan.com/tx/0x586c9758b7ad7524884b1ba4ea66d9eb0cd12275388ad96fdd86f81adc5d1378
+5000 USDC            https://polygonscan.com/tx/0x85f5798b3b772275b268aa65e8344c452aba68958f4bc6bdabc06018c80949a4
+500000 USDC          https://polygonscan.com/tx/0xf8be6bf4109d7bc29854310f634db4d7cd4b89c327bda7ecda0c376f48f6ff37
+1000000 USDC         https://polygonscan.com/tx/0xea0ad9d0f65bdd99db5cbf809b93ef5c0524a80c84a9007ecb3a5ee7ac1fbd56
+1000000 USDC         https://polygonscan.com/tx/0xd2bf0be489b43d6e37a1596dc9f133f9de063fe6942a0e5d343bdd1c1c3546b1
